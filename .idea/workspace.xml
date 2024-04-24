@@ -4,29 +4,94 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f19dc49-9929-4cdc-8695-b980c2113fa1" name="Changes" comment="" />
+    <list default="true" id="2f19dc49-9929-4cdc-8695-b980c2113fa1" name="Changes" comment="wiki for szn">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bft/trudvsem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bft/trudvsem/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/LoggerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/LoggerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixManagementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixManagementPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentManagementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentManagementPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionManagementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionManagementPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixManagementPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixManagementPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixesPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixesPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/IncidentManagementPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/IncidentManagementPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/IncidentsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/IncidentsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/QuestionManagementPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/QuestionManagementPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/QuestionsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/QuestionsPageTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "falinpavel"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d0223951-565a-4222-9500-404e97492a68" />
+        <option name="url" value="https://github.com/falinpavel/wiki-for-szn.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fURkssouwM7pcfQPQWWFBLi84o" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Alove/IdeaProjects/wiki-for-szn/src/main/java/com/bft/trudvsem/Main.java"
+    "last_opened_file_path": "C:/Users/Alove/IdeaProjects/wiki-for-szn",
+    "onboarding.tips.debug.path": "C:/Users/Alove/IdeaProjects/wiki-for-szn/src/main/java/com/bft/trudvsem/Main.java",
+    "settings.editor.selected.configurable": "project.scopes"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alove\IdeaProjects\wiki-for-szn" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,15 +103,19 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bft/trudvsem/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wiki for szn" />
+    <option name="LAST_COMMIT_MESSAGE" value="wiki for szn" />
   </component>
 </project>
