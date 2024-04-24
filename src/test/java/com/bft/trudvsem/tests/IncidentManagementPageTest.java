@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class IncidentManagementPageTest extends TestBase {
 
-    @Test
+    @Test(description = "Проверка заголовка", priority = 1)
     public void verifyIncidentManagementSectionIsDisplayed() {
         driver.get("URL страницы управления инцидентами");
         IncidentManagementPage incidentManagementPage = new IncidentManagementPage();

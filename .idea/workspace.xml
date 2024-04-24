@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f19dc49-9929-4cdc-8695-b980c2113fa1" name="Changes" comment="wiki for szn">
+    <list default="true" id="2f19dc49-9929-4cdc-8695-b980c2113fa1" name="Changes" comment="wiki for szn 1.0">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/NavigationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bft/trudvsem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bft/trudvsem/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/DriverManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/LoggerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/LoggerUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixManagementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixManagementPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/HotfixesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentManagementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentManagementPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/IncidentsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionManagementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionManagementPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/pages/QuestionsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HomePageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixManagementPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixManagementPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixesPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/tests/HotfixesPageTest.java" afterDir="false" />
@@ -74,7 +64,6 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
-    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -84,7 +73,7 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Alove/IdeaProjects/wiki-for-szn",
     "onboarding.tips.debug.path": "C:/Users/Alove/IdeaProjects/wiki-for-szn/src/main/java/com/bft/trudvsem/Main.java",
-    "settings.editor.selected.configurable": "project.scopes"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,6 +90,15 @@
       <option name="presentableId" value="Default" />
       <updated>1713853819307</updated>
     </task>
+    <task id="LOCAL-00001" summary="wiki for szn 1.0">
+      <option name="closed" value="true" />
+      <created>1713939080263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713939080263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +114,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wiki for szn" />
-    <option name="LAST_COMMIT_MESSAGE" value="wiki for szn" />
+    <MESSAGE value="wiki for szn 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="wiki for szn 1.0" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

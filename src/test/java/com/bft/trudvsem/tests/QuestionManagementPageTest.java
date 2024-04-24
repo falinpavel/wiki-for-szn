@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class QuestionManagementPageTest extends TestBase {
 
-    @Test
+    @Test(description = "Проверка заголовка", priority = 1)
     public void verifyQuestionManagementSectionIsDisplayed() {
         driver.get("URL страницы управления вопросами");
         QuestionManagementPage questionManagementPage = new QuestionManagementPage();

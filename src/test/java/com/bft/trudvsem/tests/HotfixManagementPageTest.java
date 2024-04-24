@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class HotfixManagementPageTest extends TestBase {
 
-    @Test
+    @Test(description = "Проверка заголовка", priority = 1)
     public void verifyHotfixManagementSectionIsDisplayed() {
         driver.get("URL страницы управления хотфиксами");
         HotfixManagementPage hotfixManagementPage = new HotfixManagementPage();
