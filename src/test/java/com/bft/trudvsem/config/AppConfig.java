@@ -4,12 +4,10 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 /**
  * Класс конфигурации для приложения.
- * В этом классе содержатся настройки, которые используются в других частях приложения.
- * Например, URL веб-приложения, путь к драйверу для WebDriver, время ожидания и т.д.
+ * В этом классе содержатся настройки, которые используются в других классах
  */
 public class AppConfig {
-    // URL вашего веб-приложения.
-    // Этот URL будет использоваться для запуска тестов и выполнения действий с веб-приложением.
+    // Этот URL будет использоваться для запуска тестов и выполнения действий
     public static final String BASE_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
 
     // Имя браузера, который будет использоваться для выполнения тестов.
@@ -17,8 +15,6 @@ public class AppConfig {
     public static final String BROWSER = "chrome";
 
     // Путь к исполняемому файлу драйвера для WebDriver.
-    // Драйвер используется для управления браузером и выполнения действий с веб-страницами.
-    // В данном случае, используется драйвер для Google Chrome.
     public static final String DRIVER_PATH = "C:\\chromedriver\\chromedriver.exe";
 
     // Время неявного ожидания в секундах.
@@ -33,7 +29,6 @@ public class AppConfig {
 
     /**
      * Получить настройки ChromeOptions для приложения.
-     *
      * @return объект ChromeOptions с дополнительными настройками
      */
     public static ChromeOptions getChromeOptions() {

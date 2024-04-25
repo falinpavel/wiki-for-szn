@@ -4,7 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
- * LoggerUtil - утилитный класс для логирования сообщений.
+ * LoggerUtil - класс для логирования сообщений.
  * Он использует Log4j для управления логированием.
  */
 public class LoggerUtil {
@@ -14,7 +14,6 @@ public class LoggerUtil {
 
     /**
      * Записывает информационное сообщение в лог.
-     *
      * @param message Записываемое сообщение
      */
     public static void info(String message) {
@@ -23,7 +22,6 @@ public class LoggerUtil {
 
     /**
      * Записывает сообщение об ошибке вместе с связанным исключением.
-     *
      * @param message Записываемое сообщение
      * @param throwable Связанное исключение
      */

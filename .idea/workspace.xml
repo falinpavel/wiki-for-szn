@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f19dc49-9929-4cdc-8695-b980c2113fa1" name="Changes" comment="wiki for szn 1.01, add new class NavagationTest">
+    <list default="true" id="2f19dc49-9929-4cdc-8695-b980c2113fa1" name="Changes" comment="refactoring">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/DriverManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/LoggerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/LoggerUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bft/trudvsem/core/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713958572628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactoring">
+      <option name="closed" value="true" />
+      <created>1713966872883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713966872883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +127,8 @@
     <MESSAGE value="wiki for szn" />
     <MESSAGE value="wiki for szn 1.0" />
     <MESSAGE value="wiki for szn 1.01, add new class NavagationTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="wiki for szn 1.01, add new class NavagationTest" />
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
