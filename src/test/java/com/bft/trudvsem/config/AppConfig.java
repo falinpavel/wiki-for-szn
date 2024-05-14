@@ -9,6 +9,12 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class AppConfig {
     // Этот URL будет использоваться для запуска тестов и выполнения действий
     public static final String BASE_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
+    //public static final String HOTFIX_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
+    //public static final String INCIDENT_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
+    //public static final String QUESTION_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
+    //public static final String HOTFIX_MANAGEMENT_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
+    //public static final String INCIDENT_MANAGEMENT_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
+    //public static final String QUESTION_MANAGEMENT_URL = "https://wiki-ts-dev01.k8s.trudvsem.ru/";
 
     // Имя браузера, который будет использоваться для выполнения тестов.
     // В данном случае, используется Google Chrome.

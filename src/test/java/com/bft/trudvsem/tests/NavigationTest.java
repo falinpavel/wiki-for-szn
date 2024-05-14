@@ -8,6 +8,7 @@ import com.bft.trudvsem.pages.QuestionsPage;
 import com.bft.trudvsem.pages.IncidentManagementPage;
 import com.bft.trudvsem.pages.HotfixManagementPage;
 import com.bft.trudvsem.pages.QuestionManagementPage;
+//import com.bft.trudvsem.config.AppConfig; - класс конфигурации для приложения, отсюда берутся URL для страниц и настройки ChromeOptions
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -61,7 +62,7 @@ public class NavigationTest extends TestBase {
         Assert.assertEquals(driver.getCurrentUrl(), "URL_главной_страницы");
     }
 
-    // Тесты для управления инцидентами, хотфиксами и вопросами
+    // Тесты для управления инцидентами, хотфиксами и вопросами.
     // Продолжите добавление тестов для всех остальных страниц
 
     @Test(dependsOnMethods = "navigateToQuestionsPageAndBack")
